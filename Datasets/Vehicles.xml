@@ -1,0 +1,32 @@
+﻿<Vehicles>
+	<Vehicle>
+		<Type>"Car"</Type>
+		<Model>"Tesla Model 3"</Model>
+		<Specs>"Electric sedan"</Specs>
+		<Color>"red"</Color>
+	</Vehicle>
+	<Vehicle>
+		<Type>"Motorcycle"</Type>
+		<Model>"Harley-Davidson"</Model>
+		<Specs>"V-twin engine"</Specs>
+		<Color>"black"</Color>
+	</Vehicle>
+	<Vehicle>
+		<Type>"Bicycle"</Type>
+		<Model>"Giant Escape 3"</Model>
+		<Specs>"Aluminum frame"</Specs>
+		<Color>"black"</Color>
+	</Vehicle>
+	<Vehicle>
+		<Type>"Scooter"</Type>
+		<Model>"Vespa Primavera"</Model>
+		<Specs>"50cc engine"</Specs>
+		<Color>"white"</Color>
+	</Vehicle>
+	<Vehicle>
+		<Type>"Boat"</Type>
+		<Model>"Bayliner Element"</Model>
+		<Specs>"18-foot length"</Specs>
+		<Color>"black"</Color>
+	</Vehicle>
+</Vehicles>
